@@ -1,0 +1,13 @@
+/* Add your CSS styling here */
+/* Example styles for containers */
+.login-container {
+  text-align: center;
+  margin-top: 50px;
+}
+
+.menu-container,
+.bill-container,
+.feedback-container {
+  text-align: center;
+  margin-top: 20px;
+}
